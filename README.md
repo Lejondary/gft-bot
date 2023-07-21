@@ -1,12 +1,13 @@
 # GFT-BOT
 
-A simple web chatbot utilizing Google Cloud Platform's Dialogflow API and integrating OpenAI's ChatGPT-3.5 API.
+A simple web chatbot utilizing Google Cloud Platform's Dialogflow API, Google's Bard AI API, and OpenAI's ChatGPT-3.5 API.
 
 # TODO
 
 - [x] add doc temp
 - [ ] research dialogflow doc
 - [ ] get chatgpt key
+- [ ] get bard key
 - [ ] write intro
 
 ## Table of Contents
