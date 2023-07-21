@@ -5,6 +5,9 @@ A simple web chatbot utilizing Google Cloud Platform's Dialogflow API and integr
 # TODO
 
 - [x] add doc temp
+- [ ] research dialogflow doc
+- [ ] get chatgpt key
+- [ ] write intro
 
 ## Table of Contents
 
