@@ -1,14 +1,17 @@
 # GFT-BOT
 
-A simple web chatbot utilizing Google Cloud Platform's Dialogflow API, Google's Bard AI API, and OpenAI's ChatGPT-3.5 API.
+## Overview
 
-# TODO
+GFT-Bot is a simple web chatbot built and deployed on Google Cloud Platform. It utilizes Google Cloud Platform's Dialogflow API, Google Cloud's Bard API, and OpenAI's ChatGPT-3.5 API to answer questions about the website and developer, provide site navigational support, or just chat with users.
+
+## TODO
 
 - [x] add doc temp
 - [ ] research dialogflow doc
 - [ ] get chatgpt key
 - [ ] get bard key
-- [ ] write intro
+- [x] write intro
+- [ ] write getting started
 
 ## Table of Contents
 
@@ -67,9 +70,29 @@ A simple web chatbot utilizing Google Cloud Platform's Dialogflow API, Google's 
 
 Provide a brief introduction to the project, outlining its purpose, scope, and target audience. Mention the key features and benefits of the project.
 
+### Purpose
+
+GFT-Bot's main goal is to provide outstanding support to the visitors of the website it is hosted on. It allows visitors to get information about the developer and their portofolio as quickly as possible. GFT-Bot is intended for use by developers who want to add a unique element to their portfolio website.
+
+### Key Features
+
+GFT-Bot supports:
+
+- Questions about the website
+- Questions about the developer
+- Site navigation
+- Lovely conversation
+
 ## Getting Started
 
 This section should cover the steps required to set up and run the project locally. Include information on any dependencies or prerequisites needed, along with installation and configuration instructions.
+
+### Requirements
+
+- Google Cloud Platform Account
+- Dialogflow Agent
+- ChatGPT API Key
+- Bard API Key
 
 ## Architecture Overview
 
