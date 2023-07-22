@@ -7,11 +7,16 @@ GFT-Bot is a simple web chatbot built and deployed on Google Cloud Platform. It 
 ## TODO
 
 - [x] add doc temp
+- [ ] comment toc, if app
 - [ ] research dialogflow doc
 - [ ] get chatgpt key
 - [ ] get bard key
+- [ ] setup gcp proj
+- [ ] create df agent
+- [ ] design intents
 - [x] write intro
 - [ ] write getting started
+- [ ] research disc int
 
 ## Table of Contents
 
@@ -71,6 +76,7 @@ GFT-Bot is a simple web chatbot built and deployed on Google Cloud Platform. It 
 <!--
 Provide a brief introduction to the project, outlining its purpose, scope, and target audience. Mention the key features and benefits of the project.
 -->
+
 ### Purpose
 
 GFT-Bot's main goal is to provide outstanding support to the visitors of the website it is hosted on. It allows visitors to get information about the developer and their portofolio as quickly as possible. GFT-Bot is intended for use by developers who want to add a unique element to their portfolio website.
