@@ -68,8 +68,9 @@ GFT-Bot is a simple web chatbot built and deployed on Google Cloud Platform. It 
 
 ## Introduction
 
+<!--
 Provide a brief introduction to the project, outlining its purpose, scope, and target audience. Mention the key features and benefits of the project.
-
+-->
 ### Purpose
 
 GFT-Bot's main goal is to provide outstanding support to the visitors of the website it is hosted on. It allows visitors to get information about the developer and their portofolio as quickly as possible. GFT-Bot is intended for use by developers who want to add a unique element to their portfolio website.
@@ -85,7 +86,9 @@ GFT-Bot supports:
 
 ## Getting Started
 
+<!--
 This section should cover the steps required to set up and run the project locally. Include information on any dependencies or prerequisites needed, along with installation and configuration instructions.
+-->
 
 ### Requirements
 
@@ -96,60 +99,90 @@ This section should cover the steps required to set up and run the project local
 
 ## Architecture Overview
 
+<!--
 Present a high-level overview of the project's architecture. Include a diagram illustrating the major components and their interactions.
+-->
 
 ## Code Structure
 
+<!--
 Explain the organization of the project's codebase. Describe the purpose and responsibilities of significant files or modules.
+-->
 
 ## Technologies Used
 
+<!--
 List the programming languages, frameworks, libraries, and tools used in the project, along with their respective versions.
+-->
 
 ## Usage
 
+<!--
 Provide instructions on how to use the application. Include details on available commands, options, and parameters.
+-->
 
 ## Code Examples
 
+<!--
 Offer code snippets and examples to illustrate key functionalities or demonstrate usage.
+-->
 
 ## API Documentation (if applicable)
 
+<!--
 If the project exposes an API, provide detailed documentation for each endpoint, including request and response formats.
+-->
 
 ## Data Models (if applicable)
 
+<!--
 If the project involves databases or data models, describe the structure of the data and database schema.
+-->
 
 ## Configuration
 
+<!--
 Explain any configuration options available to customize the project's behavior.
+-->
 
 ## Troubleshooting
 
+<!--
 Address common issues that users may encounter and provide solutions to resolve them.
+-->
 
 ## Performance Considerations (if applicable)
 
+<!--
 Highlight performance-related considerations and provide tips for optimizing the application.
+-->
 
 ## Testing
 
+<!--
 Explain the approach to testing the project and provide instructions to run tests.
+-->
 
 ## Contributions
 
+<!--
 Specify guidelines for contributing to the project, including coding standards and how to submit changes.
+-->
 
 ## Version History
 
+<!--
 Keep track of major updates, improvements, and bug fixes in the version history or changelog.
+-->
 
 ## Licensing
 
+<!--
 Specify the license under which the project is distributed.
+-->
 
 ## Contact Information
 
+<!--
 Provide contact details for the maintainer or author of the project.
+-->
