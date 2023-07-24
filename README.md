@@ -23,55 +23,89 @@ GFT-Bot is a simple web chatbot built and deployed on Google Cloud Platform. It 
 ## Table of Contents
 
    1. [Introduction](#introduction)
+      <!--
       - Purpose
       - Scope
       - Audience
+      -->
    1. [Getting Started](#getting-started)
+      <!--
       - Prerequisites
       - Installation
       - Configuration
+      -->
    1. [Architecture Overview](#architecture-overview)
+      <!--
       - High-level architecture diagram
       - Explanation of major components/modules
+      -->
    1. [Code Structure](#code-structure)
+      <!--
       - Overview of directory/file structure
       - Description of significant files/modules
+      -->
    1. [Technologies Used](#technologies-used)
+      <!--
       - List of programming languages, frameworks, and libraries
       - Version numbers
+      -->
    1. [Usage](#usage)
+      <!--
       - How to run the application
       - Available commands or options
+      -->
    1. [Code Examples](#code-examples)
+      <!--
       - Illustrative examples of key functionalities
       - Code snippets with explanations
+      -->
    1. [API Documentation](#api-documentation-if-applicable) (if applicable)
+      <!--
       - Endpoint details
       - Request and response format
+      -->
    1. [Data Models](#data-models-if-applicable) (if applicable)
+      <!--
       - Explanation of data structures used
       - Database schema (if relevant)
+      -->
    1. [Configuration](#configuration)
+      <!--
       - Configurable parameters and their effects
       - Configuration file formats (if used)
+      -->
    1. [Troubleshooting](#troubleshooting)
+      <!--
       - Common issues and their solutions
       - Error codes and messages
+      -->
    1. [Performance Considerations](#performance-considerations-if-applicable) (if applicable)
+      <!--
       - Performance tips and best practices
+      -->
    1. [Testing](#testing)
+      <!--
       - Overview of testing approach
       - Instructions to run tests
+      -->
    1. [Contributions](#contributions)
+      <!--
       - Guidelines for contributing to the project
       - Code style and standards
+      -->
    1. [Version History](#version-history)
+      <!--
       - Changelog
       - Major updates and improvements
+      -->
    1. [Licensing](#licensing)
+      <!--
       - Project license information
+      -->
    1. [Contact Information](#contact-information)
+      <!--
       - Maintainer or author contact details
+      -->
 
 ## Introduction
 
