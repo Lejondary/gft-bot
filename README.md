@@ -8,11 +8,12 @@ GFT-Bot is a simple web chatbot built and deployed on Google Cloud Platform. It 
 ## TODO
 
 - [x] add doc temp
-- [ ] comment toc, if app
+- [x] comment toc, if app
 - [ ] research dialogflow doc
 - [ ] get chatgpt key
 - [ ] get bard key
-- [ ] setup gcp proj
+- [x] setup gcp proj
+- [ ] connect cloud code to proj
 - [ ] create df agent
 - [ ] design intents
 - [x] write intro
