@@ -59,12 +59,12 @@ GFT-Bot is a simple web chatbot built and deployed on Google Cloud Platform. It 
       - Illustrative examples of key functionalities
       - Code snippets with explanations
       -->
-   1. [API Documentation](#api-documentation-if-applicable) (if applicable)
+   1. [API Documentation](#api-documentation-if-applicable) <!--(if applicable)-->
       <!--
       - Endpoint details
       - Request and response format
       -->
-   1. [Data Models](#data-models-if-applicable) (if applicable)
+   1. [Data Models](#data-models-if-applicable) <!--(if applicable)-->
       <!--
       - Explanation of data structures used
       - Database schema (if relevant)
@@ -79,7 +79,7 @@ GFT-Bot is a simple web chatbot built and deployed on Google Cloud Platform. It 
       - Common issues and their solutions
       - Error codes and messages
       -->
-   1. [Performance Considerations](#performance-considerations-if-applicable) (if applicable)
+   1. [Performance Considerations](#performance-considerations-if-applicable) <!--(if applicable)-->
       <!--
       - Performance tips and best practices
       -->
@@ -169,13 +169,13 @@ Provide instructions on how to use the application. Include details on available
 Offer code snippets and examples to illustrate key functionalities or demonstrate usage.
 -->
 
-## API Documentation (if applicable)
+## API Documentation <!--(if applicable)-->
 
 <!--
 If the project exposes an API, provide detailed documentation for each endpoint, including request and response formats.
 -->
 
-## Data Models (if applicable)
+## Data Models <!--(if applicable)-->
 
 <!--
 If the project involves databases or data models, describe the structure of the data and database schema.
@@ -193,7 +193,7 @@ Explain any configuration options available to customize the project's behavior.
 Address common issues that users may encounter and provide solutions to resolve them.
 -->
 
-## Performance Considerations (if applicable)
+## Performance Considerations <!--(if applicable)-->
 
 <!--
 Highlight performance-related considerations and provide tips for optimizing the application.
