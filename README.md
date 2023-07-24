@@ -4,6 +4,7 @@
 
 GFT-Bot is a simple web chatbot built and deployed on Google Cloud Platform. It utilizes Google Cloud Platform's Dialogflow API, Google Cloud's Bard API, and OpenAI's ChatGPT-3.5 API to answer questions about the website and developer, provide site navigational support, or just chat with users.
 
+<!--
 ## TODO
 
 - [x] add doc temp
@@ -17,6 +18,7 @@ GFT-Bot is a simple web chatbot built and deployed on Google Cloud Platform. It 
 - [x] write intro
 - [ ] write getting started
 - [ ] research disc int
+-->
 
 ## Table of Contents
 
