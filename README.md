@@ -26,93 +26,29 @@ GFT-Bot is a simple web chatbot built and deployed on Google Cloud Platform. It 
 
 ## Table of Contents
 
-   1. [Introduction](#introduction)
-      <!--
-      - Purpose
-      - Scope
-      - Audience
-      -->
-   1. [Getting Started](#getting-started)
-      <!--
-      - Prerequisites
-      - Installation
-      - Configuration
-      -->
-   1. [Architecture Overview](#architecture-overview)
-      <!--
-      - High-level architecture diagram
-      - Explanation of major components/modules
-      -->
-   1. [Code Structure](#code-structure)
-      <!--
-      - Overview of directory/file structure
-      - Description of significant files/modules
-      -->
-   1. [Technologies Used](#technologies-used)
-      <!--
-      - List of programming languages, frameworks, and libraries
-      - Version numbers
-      -->
-   1. [Usage](#usage)
-      <!--
-      - How to run the application
-      - Available commands or options
-      -->
-   1. [Code Examples](#code-examples)
-      <!--
-      - Illustrative examples of key functionalities
-      - Code snippets with explanations
-      -->
-   1. [API Documentation](#api-documentation)
-      <!--(if applicable)-->
-      <!--
-      - Endpoint details
-      - Request and response format
-      -->
-   1. [Data Models](#data-models)
-      <!--(if applicable)-->
-      <!--
-      - Explanation of data structures used
-      - Database schema (if relevant)
-      -->
-   1. [Configuration](#configuration)
-      <!--
-      - Configurable parameters and their effects
-      - Configuration file formats (if used)
-      -->
-   1. [Troubleshooting](#troubleshooting)
-      <!--
-      - Common issues and their solutions
-      - Error codes and messages
-      -->
-   1. [Performance Considerations](#performance-considerations)
-      <!--(if applicable)-->
-      <!--
-      - Performance tips and best practices
-      -->
-   1. [Testing](#testing)
-      <!--
-      - Overview of testing approach
-      - Instructions to run tests
-      -->
-   1. [Contributions](#contributions)
-      <!--
-      - Guidelines for contributing to the project
-      - Code style and standards
-      -->
-   1. [Version History](#version-history)
-      <!--
-      - Changelog
-      - Major updates and improvements
-      -->
-   1. [Licensing](#licensing)
-      <!--
-      - Project license information
-      -->
-   1. [Contact Information](#contact-information)
-      <!--
-      - Maintainer or author contact details
-      -->
+- [GFT-BOT](#gft-bot)
+  - [Overview](#overview)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+    - [Purpose](#purpose)
+    - [Key Features](#key-features)
+  - [Getting Started](#getting-started)
+    - [Requirements](#requirements)
+  - [Architecture Overview](#architecture-overview)
+  - [Code Structure](#code-structure)
+  - [Technologies Used](#technologies-used)
+  - [Usage](#usage)
+  - [Code Examples](#code-examples)
+  - [API Documentation](#api-documentation)
+  - [Data Models](#data-models)
+  - [Configuration](#configuration)
+  - [Troubleshooting](#troubleshooting)
+  - [Performance Considerations](#performance-considerations)
+  - [Testing](#testing)
+  - [Contributions](#contributions)
+  - [Version History](#version-history)
+  - [Licensing](#licensing)
+  - [Contact Information](#contact-information)
 
 ## Introduction
 
@@ -122,7 +58,7 @@ Provide a brief introduction to the project, outlining its purpose, scope, and t
 
 ### Purpose
 
-GFT-Bot's main goal is to provide outstanding support to the visitors of the website it is hosted on. It allows visitors to get information about the developer and their portofolio as quickly as possible. GFT-Bot is intended for use by developers who want to add a unique element to their portfolio website.
+GFT-Bot's main goal is to provide outstanding support to the visitors of the website it is hosted on. It allows visitors to get information about the developer and their portfolio as quickly as possible. GFT-Bot is intended for use by developers who want to add a unique element to their portfolio website.
 
 ### Key Features
 
