@@ -181,6 +181,8 @@ This section outlines upcoming releases and features.
 - [ ] add contributors badge
 - [ ] add issues badges
 - [ ] add license badge
+- [ ] add last commit badge
+- [ ] add stars badge
 - [ ] add tech stack badges
 - [ ] research dialogflow doc
 - [x] get chatgpt key
