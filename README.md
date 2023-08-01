@@ -1,73 +1,68 @@
-# GFT-BOT
-
-## Overview
-
-GFT-Bot is a simple web chatbot built and deployed on Google Cloud Platform. It utilizes Google Cloud Platform's Dialogflow API, Google Cloud's Bard API, and OpenAI's ChatGPT-3.5 API to answer questions about the website and developer, provide site navigational support, or just chat with users.
-
 <!--
-## TODO
-
-- [x] add doc temp
-- [x] comment toc, if app
-- [ ] research dialogflow doc
-- [x] get chatgpt key
-- [ ] get bard key
-- [x] setup gcp proj
-- [x] connect vsc to proj
-- [ ] research secrets man doc
-- [ ] secret man tut
-- [ ] test vsc secret man
-- [ ] create df agent
-- [ ] design intents
-- [x] write intro
-- [ ] write getting started
-- [ ] research disc int
+A README template for projects.
 -->
 
-## Table of Contents
+<a id="top-of-page"></a>
 
-- [GFT-BOT](#gft-bot)
-  - [Overview](#overview)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-    - [Purpose](#purpose)
-    - [Key Features](#key-features)
-  - [Getting Started](#getting-started)
-    - [Requirements](#requirements)
-  - [Architecture Overview](#architecture-overview)
-  - [Code Structure](#code-structure)
-  - [Technologies Used](#technologies-used)
-  - [Usage](#usage)
-  - [Code Examples](#code-examples)
-  - [API Documentation](#api-documentation)
-  - [Data Models](#data-models)
-  - [Configuration](#configuration)
-  - [Troubleshooting](#troubleshooting)
-  - [Performance Considerations](#performance-considerations)
-  - [Testing](#testing)
-  - [Contributions](#contributions)
-  - [Version History](#version-history)
-  - [Licensing](#licensing)
-  - [Contact Information](#contact-information)
+<!-- PROJECT LOGO -->
+<div align="center">
 
-## Introduction
+<img src="assets/img/logo.gif" alt="logo" width="200" height="auto" />
+
+<!-- PROJECT TITLE -->
+# Project Title <!-- omit from toc -->
+
+<!-- PROJECT DESCRIPTION-->
+Project Description
+
+<!-- BADGES -->
+
+[![LinkedIn][linkedin-badge]][linkedin-url]
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+# Table of Contents <!-- omit from toc -->
+
+- [Overview](#overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Dependencies](#dependencies)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Tech Stack](#tech-stack)
+- [Configuration](#configuration)
+- [Troubleshooting](#troubleshooting)
+- [Road Map](#road-map)
+- [Changelog](#changelog)
+- [Contributing](#contributing)
+- [Licensing](#licensing)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+- [FAQ](#faq)
+
+## Overview
 
 <!--
 Provide a brief introduction to the project, outlining its purpose, scope, and target audience. Mention the key features and benefits of the project.
 -->
 
-### Purpose
+### Demo <!-- omit from toc -->
 
-GFT-Bot's main goal is to provide outstanding support to the visitors of the website it is hosted on. It allows visitors to get information about the developer and their portfolio as quickly as possible. GFT-Bot is intended for use by developers who want to add a unique element to their portfolio website.
+<!--
+Provide screenshots or a demo showcasing the project.
+-->
 
-### Key Features
+<div align="right"><a href="#top-of-page">Back to Top</a></div>
 
-GFT-Bot supports:
+## Features
 
-- Questions about the website
-- Questions about the developer
-- Site navigation
-- Lovely conversation
+<!-- 
+Explain the key features of the project. 
+-->
+
+<div align="right"><a href="#top-of-page">Back to Top</a></div>
 
 ## Getting Started
 
@@ -75,30 +70,13 @@ GFT-Bot supports:
 This section should cover the steps required to set up and run the project locally. Include information on any dependencies or prerequisites needed, along with installation and configuration instructions.
 -->
 
-### Requirements
+### Prerequisites
 
-- Google Cloud Platform Account
-- Dialogflow Agent
-- ChatGPT API Key
-- Bard API Key
+### Dependencies
 
-## Architecture Overview
+### Installation
 
-<!--
-Present a high-level overview of the project's architecture. Include a diagram illustrating the major components and their interactions.
--->
-
-## Code Structure
-
-<!--
-Explain the organization of the project's codebase. Describe the purpose and responsibilities of significant files or modules.
--->
-
-## Technologies Used
-
-<!--
-List the programming languages, frameworks, libraries, and tools used in the project, along with their respective versions.
--->
+<div align="right"><a href="#top-of-page">Back to Top</a></div>
 
 ## Usage
 
@@ -106,25 +84,47 @@ List the programming languages, frameworks, libraries, and tools used in the pro
 Provide instructions on how to use the application. Include details on available commands, options, and parameters.
 -->
 
-## Code Examples
+### Examples <!-- omit from toc -->
 
 <!--
 Offer code snippets and examples to illustrate key functionalities or demonstrate usage.
 -->
 
-## API Documentation
+<div align="right"><a href="#top-of-page">Back to Top</a></div>
+
+## Tech Stack
+
+<!--
+List the programming languages, frameworks, libraries, and tools used in the project, along with their respective versions.
+-->
+
+### Architecture Overview <!-- omit from toc -->
+
+<!--
+Present a high-level overview of the project's architecture. Include a diagram illustrating the major components and their interactions.
+-->
+
+### Code Structure <!-- omit from toc -->
+
+<!--
+Explain the organization of the project's codebase. Describe the purpose and responsibilities of significant files or modules.
+-->
+
 <!--(if applicable)-->
+### API Documentation <!-- omit from toc -->
 
 <!--
 If the project exposes an API, provide detailed documentation for each endpoint, including request and response formats.
 -->
 
-## Data Models
 <!--(if applicable)-->
+### Data Models <!-- omit from toc -->
 
 <!--
 If the project involves databases or data models, describe the structure of the data and database schema.
 -->
+
+<div align="right"><a href="#top-of-page">Back to Top</a></div>
 
 ## Configuration
 
@@ -132,36 +132,51 @@ If the project involves databases or data models, describe the structure of the 
 Explain any configuration options available to customize the project's behavior.
 -->
 
+<!--(if applicable)-->
+### Performance Considerations <!-- omit from toc -->
+<!--
+Highlight performance-related considerations and provide tips for optimizing the application.
+-->
+
+### Testing <!-- omit from toc -->
+
+<!--
+Explain the approach to testing the project and provide instructions to run tests.
+-->
+
+<div align="right"><a href="#top-of-page">Back to Top</a></div>
+
 ## Troubleshooting
 
 <!--
 Address common issues that users may encounter and provide solutions to resolve them.
 -->
 
-## Performance Considerations
-<!--(if applicable)-->
+<div align="right"><a href="#top-of-page">Back to Top</a></div>
 
-<!--
-Highlight performance-related considerations and provide tips for optimizing the application.
+## Road Map
+
+<!-- 
+This section outlines upcoming releases and features.
 -->
 
-## Testing
+<div align="right"><a href="#top-of-page">Back to Top</a></div>
+
+## Changelog
 
 <!--
-Explain the approach to testing the project and provide instructions to run tests.
+Keep track of major updates, improvements, and bug fixes in the version history or changelog.
 -->
 
-## Contributions
+<div align="right"><a href="#top-of-page">Back to Top</a></div>
+
+## Contributing
 
 <!--
 Specify guidelines for contributing to the project, including coding standards and how to submit changes.
 -->
 
-## Version History
-
-<!--
-Keep track of major updates, improvements, and bug fixes in the version history or changelog.
--->
+<div align="right"><a href="#top-of-page">Back to Top</a></div>
 
 ## Licensing
 
@@ -169,8 +184,33 @@ Keep track of major updates, improvements, and bug fixes in the version history 
 Specify the license under which the project is distributed.
 -->
 
-## Contact Information
+<div align="right"><a href="#top-of-page">Back to Top</a></div>
+
+## Contact
 
 <!--
 Provide contact details for the maintainer or author of the project.
 -->
+
+<div align="right"><a href="#top-of-page">Back to Top</a></div>
+
+## Acknowledgements
+
+<!--
+List the resources you found helpful and would like to credit.
+-->
+
+<div align="right"><a href="#top-of-page">Back to Top</a></div>
+
+## FAQ
+
+<!--
+This section addresses frequently asked questions. 
+-->
+
+<div align="right"><a href="#top-of-page">Back to Top</a></div>
+
+<!-- BADGES AND LINKS -->
+
+[linkedin-badge]: https://img.shields.io/badge/linkedin-badge?style=plastic&logo=linkedin&color=%230A66C2
+[linkedin-url]: https://linkedin.com/in/jonathanphari
