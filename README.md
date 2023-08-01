@@ -10,10 +10,10 @@ A README template for projects.
 <img src="assets/img/logo.gif" alt="logo" width="200" height="auto" />
 
 <!-- PROJECT TITLE -->
-# Project Title <!-- omit from toc -->
+# GFT-Bot <!-- omit from toc -->
 
 <!-- PROJECT DESCRIPTION-->
-Project Description
+GFT-Bot is a simple web chatbot built and deployed on Google Cloud Platform. It utilizes Google Cloud Platform's Dialogflow API, Google Cloud's Bard API, and OpenAI's ChatGPT-3.5 API to answer questions about the website and developer, provide site navigational support, or just chat with users.
 
 <!-- BADGES -->
 
@@ -48,6 +48,8 @@ Project Description
 Provide a brief introduction to the project, outlining its purpose, scope, and target audience. Mention the key features and benefits of the project.
 -->
 
+GFT-Bot's main goal is to provide outstanding support to the visitors of the website it is hosted on. It allows visitors to get information about the developer and their portfolio as quickly as possible. GFT-Bot is intended for use by developers who want to add a unique element to their portfolio website.
+
 ### Demo <!-- omit from toc -->
 
 <!--
@@ -57,6 +59,13 @@ Provide screenshots or a demo showcasing the project.
 <div align="right"><a href="#top-of-page">Back to Top</a></div>
 
 ## Features
+
+GFT-Bot supports:
+
+- Questions about the website
+- Questions about the developer
+- Site navigation
+- Lovely conversation
 
 <!-- 
 Explain the key features of the project. 
@@ -71,6 +80,11 @@ This section should cover the steps required to set up and run the project local
 -->
 
 ### Prerequisites
+
+- Google Cloud Platform Account
+- Dialogflow Agent
+- ChatGPT API Key
+- Bard API Key
 
 ### Dependencies
 
@@ -158,6 +172,26 @@ Address common issues that users may encounter and provide solutions to resolve 
 
 <!-- 
 This section outlines upcoming releases and features.
+-->
+
+<!--
+## TODO
+
+- [x] revamp readme
+- [ ] research dialogflow doc
+- [x] get chatgpt key
+- [ ] get bard key
+- [ ] get cohere key
+- [x] setup gcp proj
+- [x] connect vsc to proj
+- [ ] research secrets man doc
+- [ ] secret man tut
+- [ ] test vsc secret man
+- [ ] create df agent
+- [ ] design intents
+- [x] write intro
+- [ ] write getting started
+- [ ] research disc int
 -->
 
 <div align="right"><a href="#top-of-page">Back to Top</a></div>
