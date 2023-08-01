@@ -178,19 +178,22 @@ This section outlines upcoming releases and features.
 ## TODO
 
 - [x] revamp readme
+- [ ] add contributors badge
+- [ ] add issues badges
+- [ ] add license badge
+- [ ] add tech stack badges
 - [ ] research dialogflow doc
 - [x] get chatgpt key
 - [ ] get bard key
 - [ ] get cohere key
-- [x] setup gcp proj
-- [x] connect vsc to proj
 - [ ] research secrets man doc
 - [ ] secret man tut
 - [ ] test vsc secret man
 - [ ] create df agent
 - [ ] design intents
-- [x] write intro
-- [ ] write getting started
+- [ ] write getting started section
+- [ ] write contact section
+- [ ] write acknowledgements section
 - [ ] research disc int
 -->
 
