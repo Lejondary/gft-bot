@@ -254,5 +254,5 @@ This section addresses frequently asked questions.
 
 [linkedin-badge]: https://img.shields.io/badge/linkedin-badge?style=plastic&logo=linkedin&color=%230A66C2
 [linkedin-url]: https://linkedin.com/in/jonathanphari
-[wakatime-badge]: https://wakatime.com/badge/user/9378b06c-36d3-42bc-8efd-4d7e819bbcc2/project/440bb01e-3bd4-439c-83c0-58c0444c196a.svg
+[wakatime-badge]: https://wakatime.com/badge/user/9378b06c-36d3-42bc-8efd-4d7e819bbcc2/project/440bb01e-3bd4-439c-83c0-58c0444c196a.svg?style=plastic
 [wakatime-url]: https://wakatime.com/badge/user/9378b06c-36d3-42bc-8efd-4d7e819bbcc2/project/440bb01e-3bd4-439c-83c0-58c0444c196a
